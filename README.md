@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Meu nome é Felipe, estou finalizando minha garduação em Ciência da Computação na Universidade Federal da Bahia com foco em Inteligência Artificial. Além de IA (Python - Scikit-Learn/Tensorflow/Keras), tenho interesse em desenvolvimento backend (Node.Js/Express.js, Python) e mobile (Flutter)! Meu background é diverso, tive a oportunidade de trabalhar em multiplos cargos em vendas, participar de projetos de startup, trabalhar com 2 empresas Americanas e estudar em Stanford como estudante de graduação visitante por 3 meses com foco em entrepreneurship.
+Meu nome é Felipe, estou finalizando minha graduação em Ciência da Computação na Universidade Federal da Bahia com foco em Inteligência Artificial. Além de IA (Python - Scikit-Learn/Tensorflow/Keras), tenho interesse em desenvolvimento backend (Node.Js/Express.js, Python) e mobile (Flutter)! Meu background é diverso, tive a oportunidade de trabalhar em múltiplos cargos em vendas, participar de projetos de startup, trabalhar com 2 empresas Americanas e estudar em Stanford como estudante de graduação visitante por 3 meses com foco em entrepreneurship.
 
 - 🔭 Estou atualmente trabalhando no meu projeto de conclusão de curso em Aprendizado Supervisionado 🤖
 - 🌱 Estou atualmente explorando diversas áreas de aprendizado de máquina incluindo Natural Language Processing, Visão computacional e Aprendizado Multi-agente além de desenvolvimento web com Node.Js
