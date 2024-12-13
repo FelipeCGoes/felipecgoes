@@ -11,7 +11,7 @@ Certificados: Engenharia de prompt para ChatGPT - Tomorrow UFBA, Treinamento em 
 
 -----
 
-My name is Felipe, I'm a senior undergraduate student in Computer Science with emphasis on Artificial Intelligence at the Federal University of Bahia. Beyond AI (Python - Scikit-Learn/Tensorflow/Keras), I'm interested in backend development (Node.Js/Express.js, Python) and mobile development (Flutter)! My background is diverse, I've had the opportunity to work in multiple sales roles, participate in 2 startup projects, work with 2 Silicon Valley based American companies and attend Stanford as a visiting undergraduate student.
+My name is Felipe, I'm a senior undergraduate student in Computer Science with emphasis on Artificial Intelligence at the Federal University of Bahia. Beyond AI (Python - Scikit-Learn/Tensorflow/Keras), I'm interested in backend development (Node.Js/Express.js, Python) and mobile development (Flutter)! My background is diverse, I've had the opportunity to work in multiple sales roles, participate in 2 startup projects, work with 2 Silicon Valley based companies and attend Stanford as a visiting undergraduate student.
 
 - 🔭 I'm currently working in my course conclusion project in Supervised Learning 🤖
 - 🌱 I'm currently exploring multiple areas in Machine Learning including Natural Language Processing, Computer Vision and Multi-agent learning, and web development with Node.Js
