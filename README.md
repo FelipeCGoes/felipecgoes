@@ -7,6 +7,8 @@ Meu nome é Felipe, estou finalizando minha graduação em Ciência da Computaç
 
 Poder construir projetos funcionais e com impacto na vida das pessoas diretamente pelo meu computador parece um superpoder e sempre foi o que me atraiu para codar 💻! 
 
+Certificados: Engenharia de prompt para ChatGPT - Tomorrow UFBA, Treinamento em NLP - Tomorrow UFBA, Treinamento em Deep Learning - Tomorrow UFBA, TOEFL fluency test - score 107, The complete 2020 Flutter Development Bootcamp with Dart - Udemy, Bootcamp - Latin America Leadership Academy.
+
 -----
 
 My name is Felipe, I'm a senior undergraduate student in Computer Science with emphasis on Artificial Intelligence at the Federal University of Bahia. Beyond AI (Python - Scikit-Learn/Tensorflow/Keras), I'm interested in backend development (Node.Js/Express.js, Python) and mobile development (Flutter)! My background is diverse, I've had the opportunity to work in multiple sales roles, participate in 2 startup projects, work with 2 Silicon Valley based American companies and attend Stanford as a visiting undergraduate student.
@@ -15,6 +17,8 @@ My name is Felipe, I'm a senior undergraduate student in Computer Science with e
 - 🌱 I'm currently exploring multiple areas in Machine Learning including Natural Language Processing, Computer Vision and Multi-agent learning, and web development with Node.Js
 
 Being able to build functional projects that make an impact in people's lives directly from my computer seems like a superpower and is what always drove me into coding 💻! 
+
+Certificates: Prompt engineering for ChatGPT - Tomorrow UFBA, NLP Training - Tomorrow UFBA, Deep Learning Training - Tomorrow UFBA, TOEFL fluency test - score 107, The complete 2020 Flutter Development Bootcamp with Dart - Udemy, Bootcamp - Latin America Leadership Academy.
 <!--
 **FelipeCGoes/felipecgoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
