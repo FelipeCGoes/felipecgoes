@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Meu nome é Felipe, estou finalizando minha graduação em Ciência da Computação na Universidade Federal da Bahia com foco em Inteligência Artificial. Além de IA (Python - Scikit-Learn/Tensorflow/Keras), tenho interesse em desenvolvimento backend (Node.Js/Express.js, Python) e mobile (Flutter)! Meu background é diverso, tive a oportunidade de trabalhar em múltiplos cargos em vendas, participar de projetos de startup, trabalhar com 2 empresas Americanas e estudar em Stanford como estudante de graduação visitante por 3 meses com foco em entrepreneurship.
+Meu nome é Felipe, estou finalizando minha graduação em Ciência da Computação na Universidade Federal da Bahia com foco em Inteligência Artificial. Além de IA (Python - Scikit-Learn/Tensorflow/Keras/PyTorch), tenho interesse em desenvolvimento backend (Node.Js/Express.js, Python) e mobile (Flutter)! Meu background é diverso, tive a oportunidade de trabalhar em múltiplos cargos em vendas, participar de projetos de startup, trabalhar com 2 empresas Americanas e estudar em Stanford como estudante de graduação visitante por 3 meses com foco em entrepreneurship.
 
 - 🔭 Estou atualmente trabalhando no meu projeto de conclusão de curso em Aprendizado Supervisionado 🤖
 - 🌱 Estou atualmente explorando diversas áreas de aprendizado de máquina incluindo Natural Language Processing, Visão computacional e Sistemas Multi-agente além de desenvolvimento web com Node.Js
@@ -11,7 +11,7 @@ Certificados: Engenharia de prompt para ChatGPT - Tomorrow UFBA, Treinamento em 
 
 -----
 
-My name is Felipe, I'm a senior undergraduate student in Computer Science with emphasis on Artificial Intelligence at the Federal University of Bahia. Beyond AI (Python - Scikit-Learn/Tensorflow/Keras), I'm interested in backend development (Node.Js/Express.js, Python) and mobile development (Flutter)! My background is diverse, I've had the opportunity to work in multiple sales roles, participate in 2 startup projects, work with 2 Silicon Valley based companies and attend Stanford as a visiting undergraduate student.
+My name is Felipe, I'm a senior undergraduate student in Computer Science with emphasis on Artificial Intelligence at the Federal University of Bahia. Beyond AI (Python - Scikit-Learn/Tensorflow/Keras/PyTorch), I'm interested in backend development (Node.Js/Express.js, Python) and mobile development (Flutter)! My background is diverse, I've had the opportunity to work in multiple sales roles, participate in 2 startup projects, work with 2 Silicon Valley based companies and attend Stanford as a visiting undergraduate student.
 
 - 🔭 I'm currently working in my course conclusion project in Supervised Learning 🤖
 - 🌱 I'm currently exploring multiple areas in Machine Learning including Natural Language Processing, Computer Vision and Multi-agent systems, and web development with Node.Js
